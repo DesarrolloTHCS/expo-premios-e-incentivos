@@ -1,0 +1,29 @@
+	/*
+  	Poppins icon font: Poppins
+  	Creation date: 02/06/2020 05:24
+  	*/
+
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/Poppins-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Poppins";
+    src: url("../fonts/Poppins-Regular.ttf") format("truetype");
+  }
+}
+
+[class^="poppins-"]:before, [class*=" poppins-"]:before,
+[class^="poppins-"]:after, [class*=" poppins-"]:after {
+  font-family: Poppins;
+font-style: normal;
+}
+
+.poppins-null:before { content: "\f100"; }
+.poppins-null-1:before { content: "\f101"; }
+.poppins-gear:before { content: "\f102"; }
+.poppins-think:before { content: "\f103"; }
