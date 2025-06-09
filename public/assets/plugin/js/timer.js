@@ -1,5 +1,5 @@
 // Establecer fecha
-var countDownDate = new Date("Aug 6, 2025 00:00:00").getTime();
+var countDownDate = new Date("Oct 8, 2025 00:00:00").getTime();
 
 // Actualizar la cuenta atrás cada segundo
 var x = setInterval(function() {
