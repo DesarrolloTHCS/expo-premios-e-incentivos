@@ -29,7 +29,7 @@
                     <div class="media contact-info">
                         <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                         <div class="media-body">
-                            <h3>+52 55 9385 6519</h3>
+                            <h3>+52 55 8025 2586</h3>
                             <p>{{ __('Write to us from Monday to Friday') }}<br>8am {{ __('to') }} 5pm</p>
                         </div>
                     </div>

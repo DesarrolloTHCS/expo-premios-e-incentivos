@@ -5,7 +5,7 @@
                 <div class="section-tittle mb-50">
                     <h2>
                         ¡Esta primera edición ha sido un éxito!, muchas gracias por tu visita.
-                        Nos vemos en el 2025.
+                        Nos vemos en el 2026.
                     </h2>
                 </div>
             </div>
