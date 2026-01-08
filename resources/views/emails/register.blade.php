@@ -561,8 +561,7 @@
                                                                     </p>
                                                                     <p
                                                                         style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:lato, 'helvetica neue', helvetica, arial, sans-serif;line-height:24px;color:#001523;font-size:16px">
-                                                                        <strong>Fecha del Evento:</strong> 6 y 7 de
-                                                                        agosto de 10:00 a 18:00 hrs.
+                                                                        <strong>Fecha del Evento:</strong> 19 y 20 de marzo de 10:00 a 17:00 hrs.
                                                                     </p>
                                                                     <p
                                                                         style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:lato, 'helvetica neue', helvetica, arial, sans-serif;line-height:24px;color:#001523;font-size:16px">
@@ -671,7 +670,7 @@
                                                                             <td align="center" valign="top"
                                                                                 style="padding:0;Margin:0;padding-right:10px">
                                                                                 <a target="_blank"
-                                                                                    href="https://www.instagram.com/showroomdiodi"
+                                                                                    href="https://www.instagram.com/expopremioseincentivos/"
                                                                                     style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#F8F9FB;font-size:12px"><img
                                                                                         src="https://fhyvvub.stripocdn.email/content/assets/img/social-icons/rounded-white/instagram-rounded-white.png"
                                                                                         alt="Ig"

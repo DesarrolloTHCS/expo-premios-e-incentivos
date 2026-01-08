@@ -34,7 +34,7 @@
                         </div>
                         <!-- social -->
                         <div class="footer-social">
-                            <a target="_blank" href="https://www.instagram.com/showroomdiodi/"><i
+                            <a target="_blank" href="https://www.instagram.com/expopremioseincentivos/"><i
                                     class="fab fa-instagram"></i></a>
                             <a target="_blank" href="https://mx.linkedin.com/company/al-group-mx"><i
                                     class="fab fa-linkedin"></i></a>
