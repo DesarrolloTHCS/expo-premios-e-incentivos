@@ -3,9 +3,11 @@
         <div class="container">
             <div class="row justify-content-between align-items-center">
                 <div class="section-tittle mb-50">
-                    <h2>
-                        ¡Esta primera edición ha sido un éxito!, muchas gracias por tu visita.
-                        Nos vemos en el 2026.
+                    <h2 style="font-weight: 700;">
+                        ¡La Expo ya se acerca!
+                    </h2>
+                    <h2 class="!text-2xl !font-normal !mt-2">
+                        Acompáñanos el <span style="font-weight: 700;">19 y 20 de marzo 2026</span> en la próxima edición de Expo Premios e Incentivos.
                     </h2>
                 </div>
             </div>
