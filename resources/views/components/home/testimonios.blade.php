@@ -18,7 +18,7 @@
                             
                             <div class="testimonial-founder d-flex align-items-center">
                                 <div class="founder-img">
-                                    <img src="{{ asset('assets/testimonials/testimonial-Hombre.png') }}" alt="Persona">
+                                    <img src="{{ asset('assets/testimonials/Testimonio-Hombre-2.png') }}" alt="Persona">
                                 </div>
                                 <div class="founder-text">
                                     <span> Israel González</span>
@@ -37,7 +37,7 @@
                             
                             <div class="testimonial-founder d-flex align-items-center">
                                 <div class="founder-img">
-                                    <img src="{{ asset('assets/testimonials/testimonial-Mujer.png') }}" alt="Persona">
+                                    <img src="{{ asset('assets/testimonials/Testimono-Mujer-2.png') }}" alt="Persona">
                                 </div>
                                 <div class="founder-text">
                                     <span>Fernanda Vázquez</span>
