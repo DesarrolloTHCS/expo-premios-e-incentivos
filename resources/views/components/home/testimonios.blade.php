@@ -12,38 +12,58 @@
                             <div class="testimonial-caption">
                                 <img src="{{ asset('storage/images/icon/quotes-sign.png') }}" alt="Comillas"
                                     class="quotes-sign">
-                                <p>{{ __('I have attended the showroom every year, and this 2024 I am very much looking forward to this event.') }}
+                                <p>{{ __('I found a comprehensive supplier at DIODI that I hadnt even considered before, and during the expo I closed deals that solved all my Q2 needs. The expo was incredibly well-curated; everything I saw was applicable to real-world programs. Im definitely coming back this year.') }}
                                 </p>
                             </div>
-                            {{-- founder --}}
+                            
                             <div class="testimonial-founder d-flex align-items-center">
                                 <div class="founder-img">
-                                    <img src="{{ asset('storage/images/icon/testimonial.png') }}" alt="Persona">
+                                    <img src="{{ asset('assets/testimonials/testimonial-Hombre.png') }}" alt="Persona">
                                 </div>
                                 <div class="founder-text">
-                                    <span>Reyna Covarrubias</span>
-                                    <p>{{ __('Buyer') }}</p>
+                                    <span> Israel González</span>
+                                    <p>{{ __('Purchasing manager') }}</p>
                                 </div>
                             </div>
                         </div>
-                        {{-- Testimonio individual
+
                         <div class="single-testimonial position-relative">
                             <div class="testimonial-caption">
                                 <img src="{{ asset('storage/images/icon/quotes-sign.png') }}" alt="Comillas"
                                     class="quotes-sign">
-                                <p>Los mejores productos en el mejor lugar, muy agradable experiencia.</p>
-                            </div> --}}
-                        {{-- founder --}}
-                        {{-- <div class="testimonial-founder d-flex align-items-center">
+                                <p>{{ __('The quality of visitors was excellent. We had real leads who knew what they were looking for. We spoke with key clients and opened up opportunities that were successfully closed. For us, being at Expo Premios e Incentivos is a smart investment, not an expense.') }}
+                                </p>
+                            </div>
+                            
+                            <div class="testimonial-founder d-flex align-items-center">
                                 <div class="founder-img">
-                                    <img src="{{ asset('storage/images/icon/testimonial.png') }}" alt="Persona">
+                                    <img src="{{ asset('assets/testimonials/testimonial-Mujer.png') }}" alt="Persona">
                                 </div>
                                 <div class="founder-text">
-                                    <span>Segundo</span>
-                                    <p>Creative designer at Colorlib</p>
+                                    <span>Fernanda Vázquez/Expositor</span>
+                                    <p>{{ __('Exhibitor') }}</p>
                                 </div>
                             </div>
-                        </div> --}}
+                        </div>
+
+                        <div class="single-testimonial position-relative">
+                            <div class="testimonial-caption">
+                                <img src="{{ asset('storage/images/icon/quotes-sign.png') }}" alt="Comillas"
+                                    class="quotes-sign">
+                                <p>{{ __('I loved it because I was able to find an incentive program all in one place and also see the products in person. Furthermore, the demonstrations and activations helped me visualize alternatives for my internal projects.') }}
+                                </p>
+                            </div>
+                            
+                            <div class="testimonial-founder d-flex align-items-center">
+                                <div class="founder-img">
+                                    <img src="{{ asset('assets/testimonials/testimonial.png') }}" alt="Persona">
+                                </div>
+                                <div class="founder-text">
+                                    <span>Reyna Covarrubias</span>
+                                    <p>{{ __('RRHH') }}</p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                     {{-- Fin testimonios --}}
                 </div>
