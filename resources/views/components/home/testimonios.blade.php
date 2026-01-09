@@ -40,7 +40,7 @@
                                     <img src="{{ asset('assets/testimonials/testimonial-Mujer.png') }}" alt="Persona">
                                 </div>
                                 <div class="founder-text">
-                                    <span>Fernanda Vázquez/Expositor</span>
+                                    <span>Fernanda Vázquez</span>
                                     <p>{{ __('Exhibitor') }}</p>
                                 </div>
                             </div>
